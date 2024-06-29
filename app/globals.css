@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.icon {
+  width: 2rem;
+}
+.icon path {
+  fill: #8064a2; /* Default fill color */
+  transition: fill 0.3s ease; /* Smooth transition on hover */
+}
+
+.icon:hover path {
+  fill: white; /* Fill color on hover */
+}
