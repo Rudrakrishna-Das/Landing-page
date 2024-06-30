@@ -43,7 +43,7 @@ const AllCards = () => {
         onSelect={() => setSelectedCard("Product")}
       />
       <Card
-        image={"/icons/program.svg"}
+        image={"/icons/Program.svg"}
         alt={"program"}
         title={"Program"}
         description={

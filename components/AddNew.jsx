@@ -9,7 +9,7 @@ const AddNew = () => {
     <section className="bg-[#eefbff]  p-16 max-sm:px-4 duration-500">
       <div className="flex flex-col gap-8 bg-white p-10 border-2 border-slate-200 rounded-lg">
         <div className="flex gap-8 max-sm:gap-3">
-          <Image src="/icons/add.svg" alt="add" height={25} width={25} />
+          <Image src="/icons/Add.svg" alt="add" height={25} width={25} />
           <h1 className="font-bold text-xl max-sm:text-base">Add your own</h1>
         </div>
         <p>
